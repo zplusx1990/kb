@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "收件箱",
+  "attachmentFolderPath": "attachments",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
+}
